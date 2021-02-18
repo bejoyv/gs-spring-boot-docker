@@ -1,5 +1,5 @@
 resources:
-  - name: myGit
+  - name: myGitRepo
     type: GitRepo
     configuration:
       gitProvider: myGit
